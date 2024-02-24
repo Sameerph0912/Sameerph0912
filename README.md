@@ -1,3 +1,4 @@
+![logo](https://github.com/Sameerph0912/Sameerph0912/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Sameer Phalak</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
